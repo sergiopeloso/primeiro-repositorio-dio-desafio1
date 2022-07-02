@@ -1,0 +1,18 @@
+Link download GIT:
+
+https://git-scm.com/
+
+Link pagina GITHUB:
+
+https://github.com/
+
+Comandos GITBASH :
+
+ls - mostra conteúdo
+cd - acessa pasta
+git status - situação dos arquivos
+git clone - clonagem do conteudo para arquivo local
+git add . - adiciona arquivo ao controle de versao 
+git commit -m "introduzir comentario" - cria um commit local
+git push origin main - empurra todos arquivos para servidor remoto
+
